@@ -13,7 +13,7 @@
 - Microsoft Remote Desktop
 - Internet Information Services (IIS)
 
-# ⚙️ Post-installation Configuration
+# ⚙️ Post-Installation Configuration
 
 ### 🗑️ Deleting "setup" folder
 
