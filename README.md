@@ -21,7 +21,7 @@ To get rid of the `⚠️ Please take a minute to delete setup directory (../set
 
 1. Navigate to `C:\inetpub\wwwroot\osTicket`, right-click the `setup` folder and then click `Delete`
 
-ADD IMAGE: [delete-setup-folder]
+<img src="/images/delete-setup-folder.png" alt="Delete Setup Folder">
 
 ### 👑 Adding a New "Master Admin" role
 
@@ -48,7 +48,7 @@ ADD IMAGE: [delete-setup-folder]
     - ✅ `Release — Ability to release ticket assignment`
     - ✅ `Transfer — Ability to transfer tickets between departments`
 
-ADD IMAGE: [add-master-admin]
+<img src="/images/add-master-admin.png" alt="Add Master Admin">
 
 ### 🖥️ Adding a New "System Administrators" Department
 
@@ -58,7 +58,7 @@ ADD IMAGE: [add-master-admin]
 
 3. Scroll to the bottom of the page and click the orange `Create Dept` button
 
-ADD IMAGE: [add-sys-admin-department]
+<img src="/images/add-sys-admin-department.png" alt="Add System Administrators Department">
 
 ### 🤝 Adding a New "Level II Support" Team
 
@@ -68,7 +68,7 @@ ADD IMAGE: [add-sys-admin-department]
 
 3. At the bottom of the page, click the orange `Create Team` button
 
-ADD IMAGE: [add-level2-support-department]
+<img src="/images/add-level2-support-department.png" alt="Add Level II Support Team">
 
 ### 🎟️ Allowing Non-registered Users to Create Tickets
 
@@ -76,7 +76,7 @@ ADD IMAGE: [add-level2-support-department]
 
 2. At the bottom of the page, click the orange `Save Changes` button
 
-ADD IMAGE: [adjust-ticket-permissions]
+<img src="/images/adjust-ticket-permissions.png" alt="Adjust Ticket Permissions">
 
 ### 📝 Adding New Agents
 
@@ -88,9 +88,9 @@ ADD IMAGE: [adjust-ticket-permissions]
 
 4. Repeat these steps until as many Agents as desired have been added
 
-ADD IMAGE: [add-agents]
+<img src="/images/add-agents.png" alt="Add Agents">
 
-ADD IMAGE: [agents-list]
+<img src="/images/agents-list.png" alt="Agents List">
 
 ### 📃 Adding Service Level Agreements (SLAs)
 
@@ -100,7 +100,7 @@ ADD IMAGE: [agents-list]
 
 3. At the bottom of the page, click the orange `Add Plan` button
 
-ADD IMAGE: [add-SLAs]
+<img src="/images/add-SLAs.png" alt="Add SLAs">
 
 ### ❓ Adding Help Topics
 
@@ -110,4 +110,4 @@ ADD IMAGE: [add-SLAs]
 
 3. At the bottom of the page, click the orange `Add Topic` button
 
-ADD IMAGE: [add-help-topic]
+<img src="/images/add-help-topic.png" alt="Add Help Topic">
