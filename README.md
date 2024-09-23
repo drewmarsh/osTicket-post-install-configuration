@@ -4,7 +4,7 @@
   </a>
 </p>
 
-### Now that [osTicket's prerequisites have been setup and osTicket has been installed from scratch](https://github.com/drewmarsh/osTicket-installation), it's time for some post-install configuration and to showcase some System Administration skills.
+### 👉 [Prerequisites & osTicket Installation](https://github.com/drewmarsh/osTicket-installation)
 
 # 🧠 Skills & Technologies Used
 - osTicket (Help Desk Ticketing System)
