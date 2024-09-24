@@ -6,7 +6,7 @@
 
 ### 👉 [Prerequisites & osTicket Installation](https://github.com/drewmarsh/osTicket-installation)
 
-# 🧠 Skills & Technologies Used
+# 🧠 Technologies Used
 - osTicket (Help Desk Ticketing System)
 - System Administration
 - Microsoft Azure (Cloud computing)
