@@ -25,7 +25,7 @@ To get rid of the `⚠️ Please take a minute to delete setup directory (../set
 
 ### 👑 Adding a New "Master Admin" role
 
-Now that osTicket is successfulled installed from scratch,  it is time to do some configuration and system administration work. To start this off, we will create a new Role in osTicket called "Master Admin". This will be the highest level administrator that has every single permission available to them. Roles are used to determine an Agent's permissions. Generally, most Agents will not have every single permission as the Master Admin does.
+Now that osTicket is successfully installed from scratch,  it is time to do some configuration and system administration work. To start this off, we will create a new Role in osTicket called "Master Admin". This will be the highest level administrator that has every single permission available to them. Roles are used to determine an Agent's permissions. Generally, most Agents will not have every single permission as the Master Admin does.
 
 1. Open `http://localhost/osTicket/scp/logs.php` in a web browser, enter the correct credentials
 
@@ -78,7 +78,7 @@ Each Agent is appointed a specific department which is determined by their assig
 
 ### 🎟️ Allowing Non-registered Users to Create Tickets
 
-Out-of-the-box installations of osTicket require users to be registered and logged-in before they can create tickets. This isn't always ideal so the setting regarding this functionality needs to be adjusted.
+Out-of-the-box installations of osTicket require users to be registered and logged-in before they can create tickets. Since this isn't always ideal, the setting regarding this functionality needs to be adjusted.
 
 1. Navigate to `Settings` > `👥 Users` > Tick ✅ `Require registration and login to create tickets`
 
@@ -88,7 +88,7 @@ Out-of-the-box installations of osTicket require users to be registered and logg
 
 ### 📝 Adding New Agents
 
-Next, we'll proceed to create Agents, who are the helpdesk staff responsible for resolving tickets. Each Agent is assigned a primary department and role for tickets within their designated area. Agents can be granted access to multiple departments, with potentially different roles in each. The Access, Permissions, and Teams tabs are used to adjust access levels, manage permissions, and assign teams for each staff member.
+Next, we'll proceed to create Agents. Agents  are the helpdesk staff responsible for resolving tickets. Each Agent is assigned a primary department and role for tickets within their designated area. Agents can be granted access to multiple departments, with potentially different roles in each. The Access, Permissions, and Teams tabs are used to adjust access levels, manage permissions, and assign teams for each staff member.
 
 1. Navigate to `Agents` > `👤 Agents` > `(+) Add New Agent`
 
