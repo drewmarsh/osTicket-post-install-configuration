@@ -99,7 +99,7 @@ Next, we'll proceed to create Agents. Agents  are the helpdesk staff responsible
 4. Repeat these steps until as many Agents as desired have been added
 
 > [!NOTE]
-> While creating an administrator-level Agents (e.g. System Administrators, Managers), permit them expanded access to the Support department so that they are able to assign tickets to support-level employees
+> While creating an administrator-level Agents (e.g. System Administrators, Managers), permit them expanded access to the Support department so that they are able to assign tickets to support-level employees.
 
 <img src="/images/add-agents.png" alt="Add Agents">
 
@@ -113,6 +113,11 @@ Next, we'll proceed to create Agents. Agents  are the helpdesk staff responsible
 3. Uncheck ◻️`Send the agent a password reset email`
    
 4. In the `New Password` and `Confirm Password` fields, enter a matching secure password and then click the `Update` button
+   
+5. Verify that the ◻️`Require password change at next login` is unchecked
+
+> [!NOTE]
+> The steps above outline how an admin would manually set an Agent's password. However, the two boxes that were left unchecked are alternative methods for the Agent to set their own password instead.
 
 <img src="/images/set-agent-password.png" alt="Set Agent Password">
 
