@@ -98,6 +98,9 @@ Next, we'll proceed to create Agents. Agents  are the helpdesk staff responsible
 
 4. Repeat these steps until as many Agents as desired have been added
 
+> [!NOTE]
+> While creating an administrator-level Agents (e.g. System Administrators, Managers), permit them expanded access to the Support department so that they are able to assign tickets to support-level employees
+
 <img src="/images/add-agents.png" alt="Add Agents">
 
 <img src="/images/agents-list.png" alt="Agents List">
