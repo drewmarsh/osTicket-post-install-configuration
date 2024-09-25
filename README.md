@@ -8,7 +8,7 @@
 
 ### 👉 [Part 1: Prerequisites & osTicket Installation](https://github.com/drewmarsh/osTicket-installation)
 ### 📍 Part 2: Post-Installation Configuration
-### 👉 [Part 3: Ticket Lifecycle Examples](https://github.com/drewmarsh/osTicket-ticket-lifecycle-examples)
+### 👉 [Part 3: Ticket Lifecycle Demo](https://github.com/drewmarsh/osTicket-ticket-lifecycle-demo)
 
 </div>
 
@@ -155,6 +155,6 @@ Help Topics facilitate ticket categorization for users. For example, we can crea
 
 ### 👉 [Part 1: Prerequisites & osTicket Installation](https://github.com/drewmarsh/osTicket-installation)
 ### 📍 Part 2: Post-Installation Configuration
-### 👉 [Part 3: Ticket Lifecycle Examples](https://github.com/drewmarsh/osTicket-ticket-lifecycle-examples)
+### 👉 [Part 3: Ticket Lifecycle Demo](https://github.com/drewmarsh/osTicket-ticket-lifecycle-demo)
 
 </div>
