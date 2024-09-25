@@ -92,7 +92,7 @@ Next, we'll proceed to create Agents. Agents  are the helpdesk staff responsible
 
 1. Navigate to `Agents` > `👤 Agents` > `(+) Add New Agent`
 
-2. In the `Account` tab, fill out the **Name:**, **Email Address:**, and **Username:** fields for the particular Agent being added. Do the same for any desired settings in the `Access` and `Permissions` tabs as well.
+2. In the `Account` tab, fill out the **Name:**, **Email Address:**, and **Username:** fields for the particular Agent being added. Do the same for any desired settings in the `Access` and `Permissions` tabs as well
 
 3. At the bottom of the page, click the orange `Create` button
 
@@ -108,7 +108,7 @@ Next, we'll proceed to create Agents. Agents  are the helpdesk staff responsible
 ### 🔐 Setting Agent's Passwords
 1. In the Admin panel of osTicket, navigate to `Agents` > `👤 Agents` > and then select that Agent that needs their password set
    
-2. Under the **Authentication** section, click `🔄 Set Password`.
+2. Under the **Authentication** section, click `🔄 Set Password`
    
 3. Uncheck ◻️`Send the agent a password reset email`
    
