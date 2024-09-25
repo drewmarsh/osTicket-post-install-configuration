@@ -4,7 +4,13 @@
   </a>
 </p>
 
-### 👉 [Prerequisites & osTicket Installation](https://github.com/drewmarsh/osTicket-installation)
+<div align="center">
+
+### 👉 [Part 1: Prerequisites & osTicket Installation](https://github.com/drewmarsh/osTicket-installation)
+### 📍 Part 2: Post-Installation Configuration
+### 👉 [Part 3: Ticket Lifecycle Examples](https://github.com/drewmarsh/osTicket-ticket-lifecycle-examples)
+
+</div>
 
 # 🧠 Technologies Used
 - osTicket (Help Desk Ticketing System)
@@ -144,3 +150,11 @@ Help Topics facilitate ticket categorization for users. For example, we can crea
 3. At the bottom of the page, click the orange `Add Topic` button
 
 <img src="/images/add-help-topic.png" alt="Add Help Topic">
+
+<br><div align="center">
+
+### 👉 [Part 1: Prerequisites & osTicket Installation](https://github.com/drewmarsh/osTicket-installation)
+### 📍 Part 2: Post-Installation Configuration
+### 👉 [Part 3: Ticket Lifecycle Examples](https://github.com/drewmarsh/osTicket-ticket-lifecycle-examples)
+
+</div>
