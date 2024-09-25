@@ -102,6 +102,17 @@ Next, we'll proceed to create Agents. Agents  are the helpdesk staff responsible
 
 <img src="/images/agents-list.png" alt="Agents List">
 
+### 🔐 Setting Agent's Passwords
+1. In the Admin panel of osTicket, navigate to `Agents` > `👤 Agents` > and then select that Agent that needs their password set
+   
+2. Under the **Authentication** section, click `🔄 Set Password`.
+   
+3. Uncheck ◻️`Send the agent a password reset email`
+   
+4. In the `New Password` and `Confirm Password` fields, enter a matching secure password and then click the `Update` button
+
+<img src="/images/set-agent-password.png" alt="Set Agent Password">
+
 ### 📃 Adding Service Level Agreements (SLAs)
 
 SLA (Service Level Agreement) Plans define the expected resolution time for specific ticket types. Each SLA incorporates a schedule and a grace period. For instance, in our example, the SEV-A (Severity A) SLA operates on a 24/7 schedule with a one-hour grace period. This structure ensures clear expectations for ticket resolution timeframes.
